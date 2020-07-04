@@ -6,9 +6,9 @@
 
 ## 釋出版
 
-- [v0.2.0 試玩](https://github.com/midnighcat/parallel-idol/releases/tag/v0.2.0)
-  - Windows/Linux 版: [GitHub 載點](https://github.com/midnighcat/parallel-idol/releases/download/v0.2.0/parallel-idol-v0.2.0-pc.zip) / [GoogleDrive 載點](https://drive.google.com/uc?id=13e7MtHXpf2ky-bbn94E_lRa5dSY3LweR&export=download)
-  - Mac OSX 版: [GitHub 載點](https://github.com/midnighcat/parallel-idol/releases/download/v0.2.0/parallel-idol-v0.2.0-mac.zip) / [GoogleDrive 載點](https://drive.google.com/uc?id=1Ji_ducdxnVrVHWeFzxUxWlEU-kDMdD4-&export=download)
+- [v0.2.1 試玩](https://github.com/midnighcat/parallel-idol/releases/tag/v0.2.1)
+  - Windows/Linux 版: [GitHub 載點](https://github.com/midnighcat/parallel-idol/releases/download/v0.2.1/parallel-idol-v0.2.1-pc.zip) / [GoogleDrive 載點](https://drive.google.com/uc?id=1SghSZ_uRy29Q0yZFMAONs9CQPNifp2fb&export=download)
+  - Mac OSX 版: [GitHub 載點](https://github.com/midnighcat/parallel-idol/releases/download/v0.2.1/parallel-idol-v0.2.1-mac.zip) / [GoogleDrive 載點](https://drive.google.com/uc?id=1azCyMUZyssZQHQUbKlC4ZwcKQKTaEbjk&export=download)
 
 - [v0.1.4 原案](https://github.com/midnighcat/parallel-idol/releases/tag/v0.1.4)
 
